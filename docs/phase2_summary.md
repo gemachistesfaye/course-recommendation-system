@@ -1,7 +1,6 @@
-# Phase 2 Summary: Content-Based Filtering
+# Phase 2 Summary: Content-Based Course Recommendation
 
-## Key Deliverables Completed
-1. Content-Based feature builder & recommender modules
-2. Learning notebook (02_content_based_filtering.ipynb)
-3. Automated unit tests (4/4 passed)
-4. Offline Leave-Last-Course-Out evaluation (Precision@5: 0.1760, Recall@5: 0.8800)
+## Key Results
+- Content-Based Recommender: Precision@5 = 0.1760 | Recall@5 = 0.8800
+- Popularity Baseline: Precision@5 = 0.0560 | Recall@5 = 0.2800
+- All 9 test suite unit tests passed.
